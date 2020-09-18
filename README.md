@@ -10,3 +10,4 @@ GSOC - Gesture Security Operable Controls is a desktop application which is buil
 The desktop application is created as a extra layer of security by providing face locking using image processing! Snapshots for unauthorised access or event! Control
 volume, screen, presentation using gestures.....
 
+![image](https://user-images.githubusercontent.com/38084141/93635103-5b36e880-fa0f-11ea-864e-f11b85518cda.png)
