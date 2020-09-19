@@ -8,7 +8,7 @@
 
 GSOC - Gesture Security Operable Controls is a **cross platform** desktop application which is build using electron.js framework, Saas, nodejs, vanilla javascript, html, css, python3.
 The desktop application is created as a extra layer of security by providing face locking using image processing! Snapshots for unauthorised access or event! Control
-volume, screen, presentation using gestures.....
+volume, screen, presentation using gestures.
 
 ![tile1](https://user-images.githubusercontent.com/38084141/93669898-9dfecc00-fab4-11ea-901c-03e18836a8b6.png)
 
